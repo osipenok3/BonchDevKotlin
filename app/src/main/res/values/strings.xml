@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">Homework</string>
+    <string name="email">Email или телефон</string>
+    <string name="password">Пароль</string>
+    <string name="tocomein">Войти</string>
+    <string name="facebook">Войти через Facebook</string>
+    <string name="todo">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="id">Войдите с Яндекс ID</string>
+    <string name="id1">Введите ваш ID</string>
+    <string name="pochta">Телефон или почта</string>
+    <string name="notrem">Не помню</string>
+    <string name="tocomein">Войти</string>
+    <string name="createid">Создать ID</string>
+    <string name="tocomeinwith">Войти с помощью</string>
+    <string name="id2">Яндекс ID - ключ от всех сервисов</string>
+    <string name="lmore">Узнать больше</string>
 </resources>
